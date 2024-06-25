@@ -70,6 +70,7 @@ a img {
     /* background-attachment: fixed; 
     스크롤 내렸을때 이미지 고정 */
     position: relative;
+    min-width: 1398px;
 }
 
 #wrap section.main .mainTitle {
