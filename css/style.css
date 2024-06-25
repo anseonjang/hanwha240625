@@ -38,6 +38,7 @@ a img {
 /* layout */
 #wrap {
     width: 100%;
+    min-width: 1398px;
 }
 
 #wrap header {
